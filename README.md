@@ -39,7 +39,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Chinese)**, **IP Res
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/hossinasaadi/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/EX-DEV47/x-ui-0.4.3/master/install.sh)
 ```
 
 ## Manual install & upgrade
